@@ -1,7 +1,5 @@
 # morocco-flag-shaders
 
-(https://tinyurl.com/2mfvfnmz)
-
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
