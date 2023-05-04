@@ -29,7 +29,7 @@ const sizes = {
  * Textures
  */
 const textureLoader = new THREE.TextureLoader();
-const moroccoFlag = textureLoader.load('/textures/flag.png');
+const moroccoFlag = textureLoader.load('/textures/winners.jpg');
 
 /**
  * Test mesh
